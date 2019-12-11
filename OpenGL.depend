@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1542457441 source:f:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542457441 source:g:\l-4 t-2\graphics sessonal\offline 1\circle move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+
+1392007564 g:\l-4 t-2\graphics sessonal\offline 1\circle move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1558374256 source:f:\uiu\graphics lab sample codes\tutorial_1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\gl.h
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glu.h
+	<GL/gl.h>
+
+1392007564 f:\uiu\graphics lab sample codes\tutorial_1\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1575984717 source:f:\codeblocks\graphics\tutorial_1\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<glut.h>
+	<iostream>
+	<ctime>
+	<string.h>
+	<mmsystem.h>
+
+1392007564 f:\codeblocks\graphics\tutorial_1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
